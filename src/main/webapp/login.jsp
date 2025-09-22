@@ -5,6 +5,9 @@
 </head>
 <body>
     <h2> You have logged Book Metro Ticket </h2>
+    <p>typo fix</p>
+    <p>log improvmemnt</p>
+        <p>optimization</p>
     <form action="login.jsp" method="post">
     <%
         {
