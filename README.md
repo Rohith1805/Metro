@@ -1,3 +1,11 @@
+<dependency>
+		<groupId>KMIT</groupId>
+			<artifactId>MultimoduleChild1</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+	</dependency>
+
+
+
 pipeline {
     agent any
     tools {
